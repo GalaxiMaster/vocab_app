@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310299597790",
+    "project_id": "wordini-ebde9",
+    "storage_bucket": "wordini-ebde9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310299597790:android:9aa784bad54d144ea01b4f",
+        "android_client_info": {
+          "package_name": "com.smartspace.wordini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVHYzPeAkkhMfBuyNgQ3bYPnkYcW6AuIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
